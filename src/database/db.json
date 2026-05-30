@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Apple iPhone 15",
+    "price": 999,
+    "description": "The Apple iPhone 15 features a powerful A16 Bionic chip, advanced dual-camera system, and a sleek aluminum design with Dynamic Island."
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "price": 899,
+    "description": "The Samsung Galaxy S24 offers a stunning AMOLED display, AI-powered features, and a high-performance Snapdragon processor."
+  },
+  {
+    "id": 3,
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 399,
+    "description": "Premium wireless noise-canceling headphones with crystal-clear sound quality, long battery life, and exceptional comfort."
+  },
+  {
+    "id": 4,
+    "name": "Dell XPS 13 Laptop",
+    "price": 1299,
+    "description": "A lightweight and powerful ultrabook featuring Intel Core processors, a stunning InfinityEdge display, and premium build quality."
+  },
+  {
+    "id": 5,
+    "name": "Apple Watch Series 9",
+    "price": 429,
+    "description": "A smart wearable device with health tracking, fitness monitoring, and seamless integration with Apple devices."
+  },
+  {
+    "id": 1780149642336,
+    "name": "Product Test",
+    "description": "Product description",
+    "price": 3500
+  }
+]
