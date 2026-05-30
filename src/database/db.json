@@ -6,12 +6,6 @@
     "description": "The Apple iPhone 15 features a powerful A16 Bionic chip, advanced dual-camera system, and a sleek aluminum design with Dynamic Island."
   },
   {
-    "id": 2,
-    "name": "Samsung Galaxy S24",
-    "price": 899,
-    "description": "The Samsung Galaxy S24 offers a stunning AMOLED display, AI-powered features, and a high-performance Snapdragon processor."
-  },
-  {
     "id": 3,
     "name": "Sony WH-1000XM5 Headphones",
     "price": 399,
